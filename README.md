@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!---
 <h3 align="center">A Security and Decentralized Systems researcher from Bangladesh.</h3>
 
 <p>I am pursuing my PhD in Computer Engineering at the University of Notre Dame, Indiana, USA. I am a Graduate Research Assistant under <a href="https://sites.nd.edu/taeho-jung/">Prof. Taeho Jung</a>, Associate Professor, University of Notre Dame, in the area of Security and Decentralized Systems.</p> 
@@ -28,5 +29,33 @@ Here are some ideas to get you started:
  <p>Want to talk? <a href="https://calendly.com/shossain-nd">Setup a meeting with me!</a>.</p>
 
 <p>More about me: <a href="https://showkoth.github.io/">Personal Site</a>.</p>
+
+-->
+
+# Showkot Hossain's Personal Website
+
+👋 Hi, I am Showkot Hossain, a Security and Decentralized Systems researcher from Bangladesh. 
+
+I am currently pursuing my PhD in Computer Engineering at the University of Notre Dame, Indiana, USA. I work as a Graduate Research Assistant under Prof. Taeho Jung, Associate Professor at the University of Notre Dame, specializing in Security and Decentralized Systems.
+
+## About Me
+
+- **Research Areas:** My research interests lie in Security, Decentralized Systems, and Cryptography.
+- **Education:** I received my Bachelor of Science in Computer Science and Engineering from the University of Dhaka in January 2020.
+- **Professional Experience:** After graduation, I worked as a Software Engineer for about 3.5 years at leading multi-national software companies in Dhaka, Bangladesh.
+- **Undergraduate Research:** During my undergrad, I worked with Dr. Mosarrat Jahan, Associate Professor, CSE, DU, focusing on Security and Blockchain for my thesis.
+
+## Want to Talk?
+
+Feel free to reach out! I'm open to discussing research, collaboration opportunities, or just setting up a meeting to chat.
+
+## More About Me
+
+Explore my [Personal Website](https://your-username.github.io) for more details.
+
+---
+
+Thank you for visiting my website! If you have any questions or would like to connect, don't hesitate to reach out.
+
 
 
