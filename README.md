@@ -33,18 +33,18 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hi, I am Showkot Hossain, a Security and Decentralized Systems researcher from Bangladesh. 
 
-I am currently pursuing my PhD in Computer Engineering at the University of Notre Dame, Indiana, USA. I work as a Graduate Research Assistant under Prof. Taeho Jung, Associate Professor at the University of Notre Dame, specializing in Security and Decentralized Systems.
+I am currently pursuing my PhD in Computer Engineering at the University of Notre Dame, Indiana, USA. I work as a Graduate Research Assistant under <a href="https://sites.nd.edu/taeho-jung/">Prof. Taeho Jung</a>, Associate Professor at the University of Notre Dame, specializing in Security and Decentralized Systems.
 
 ### About Me
 
 - **Research Areas:** My research interests lie in Security, Decentralized Systems, and Cryptography.
 - **Education:** I received my Bachelor of Science in Computer Science and Engineering from the University of Dhaka in January 2020.
 - **Professional Experience:** After graduation, I worked as a Software Engineer for about 3.5 years at leading multi-national software companies in Dhaka, Bangladesh.
-- **Undergraduate Research:** During my undergrad, I worked with Dr. Mosarrat Jahan, Associate Professor, CSE, DU, focusing on Security and Blockchain for my thesis.
+- **Undergraduate Research:** During my undergrad, I worked with <a href = "https://www.du.ac.bd/faculty/faculty_details/CSE/1777">Dr. Mosarrat Jahan</a>, Associate Professor, CSE, DU, focusing on Security and Blockchain for my thesis.
 
 ### Want to Talk?
 
-<a href="https://calendly.com/shossain-nd">Setup a meeting with me!</a> I'm open to discussing research, collaboration opportunities, or just setting up a meeting to chat.
+<a href="https://calendly.com/shossain-nd">Click here to set up a meeting with me!</a> I'm open to discussing research, collaboration opportunities, or just chatting.
 
 ### More About Me
 
