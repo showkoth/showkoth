@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A Security and Decentralized Systems researcher from Bangladesh.</h3>
 
-<p>Currently, I am pursuing my PhD in Computer Engineering at the University of Notre Dame, Indiana, USA. I am working as a Graduate Research Assistant under <a href="https://sites.nd.edu/taeho-jung/">Prof. Taeho Jung, Associate Professor, University of Notre Dame</a>, in the area of Security and Decentralized Systems.</p> 
+<p>Currently, I am pursuing my PhD in Computer Engineering at the University of Notre Dame, Indiana, USA. I am working as a Graduate Research Assistant under <a href="https://sites.nd.edu/taeho-jung/">Prof. Taeho Jung</a>, in the area of Security and Decentralized Systems.</p> 
 
  <p>My research areas are Security, Decentralized Systems, and Cryptography.</p>
 
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
  <p>Want to talk? <a href="https://calendly.com/shossain-nd">Setup a meeting with me!</a>.</p>
 
-<p>More about me: <a href="https://showkoth.github.io/">Personal Site</a></p>
+<p>More about me: <a href="https://showkoth.github.io/">Personal Site</a>.</p>
 
 
