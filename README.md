@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">A Security and Decentralized Systems enthusiastic from Bangladesh</h3>
+<h3 align="center">A Security and Decentralized Systems researcher</h3>
 
 <p>I am a PhD student at the University of Notre Dame, Indiana, USA. I am working as a Graduate Research Assistant under <a href="https://sites.nd.edu/taeho-jung/">Prof. Taeho Jung, Associate Professor, University of Notre Dame, Indiana</a>, in the area of Security and Decentralized Systems.</p> 
 
