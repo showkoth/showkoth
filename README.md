@@ -44,11 +44,11 @@ I am currently pursuing my PhD in Computer Engineering at the University of Notr
 
 ### Want to Talk?
 
-<a href="https://calendly.com/shossain-nd">Click here to set up a meeting with me!</a> I'm open to discussing research, collaboration opportunities, or just chatting.
+<a href="https://calendly.com/shossain-nd">Click here to schedule a meeting with me!</a> I'm open to discussing research, collaboration opportunities, or just chatting.
 
 ### More About Me
 
-Explore my [Personal Website](https://your-username.github.io) for more details.
+Explore my [Personal Website](https://showkoth.github.io) for more details.
 
 
 
