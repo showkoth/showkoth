@@ -40,7 +40,7 @@ I am currently pursuing my PhD in Computer Engineering at the University of Notr
 - **Research Areas:** My research interests lie in Security, Decentralized Systems, and Cryptography.
 - **Education:** I received my Bachelor of Science in Computer Science and Engineering from the University of Dhaka in January 2020.
 - **Professional Experience:** After graduation, I worked as a Software Engineer for about 3.5 years at leading multi-national software companies in Dhaka, Bangladesh.
-- **Undergraduate Research:** During my undergrad, I worked with <a href = "https://www.du.ac.bd/faculty/faculty_details/CSE/1777">Dr. Mosarrat Jahan</a>, Associate Professor, CSE, DU, focusing on Security and Blockchain for my thesis.
+- **Undergraduate Research:** My undergrad thesis topic was security and blockchain, supervised by <a href = "https://www.du.ac.bd/faculty/faculty_details/CSE/1777">Dr. Mosarrat Jahan</a> and <a href = "https://du.ac.bd/index.php/faculty/faculty_details/CSE/1765">Dr. Upama Kabir</a>.
 
 ### Want to Talk?
 
