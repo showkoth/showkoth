@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Showkot Hossain
 
 <!--
 **showkoth/showkoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">A software Egineering and Security enthusiastic from Bangladesh</h3>
+
+<p>I am a PhD student at the University of Notre Dame, Indiana, USA. I am working as a Graduate Research Assistant under <a href="https://sites.nd.edu/taeho-jung/">Prof. Taeho Jung, Associate Professor, University of Notre Dame, Indiana</a>, in the area of Security and Decentralized Systems.</p> 
+
+ <p>My research areas are Security, Decentralized Systems, and Cryptography.</p>
+
+ <p>I received my Bachelor of Science degree in Computer Science and Engineering from the University of Dhaka in January 2020. After graduation, I worked as a Software Engineer at some top-notch software companies located in Dhaka, Bangladesh.</p>
+
+ <p>I worked with Dr. Mosarrat Jahan, Associate Professor, CSE, DU, in the Security and Blockchain field as my undergrad thesis.</p>
+
+ <p>Want to talk? <a href="https://calendly.com/shossain-nd">Setup a meeting with me!</a>.</p>
+
+<p>More about me: <a href="https://showkoth.github.io/">Personal Site</a></p>
+
+
