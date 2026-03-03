@@ -31,17 +31,11 @@ Here are some ideas to get you started:
 <p>More about me: <a href="https://showkoth.github.io/">Personal Site</a>.</p>
 
 -->
-### 👋 Hi, I am Showkot Hossain, a Security and Decentralized Systems researcher from Bangladesh. 
+### 👋 Hi, I am Showkot Hossain. Welcome to my website!
 
-I am currently pursuing my PhD in Computer Engineering at the University of Notre Dame, Indiana, USA. I work as a Graduate Research Assistant under <a href="https://sites.nd.edu/taeho-jung/">Prof. Taeho Jung</a>, Associate Professor at the University of Notre Dame, specializing in Security and Decentralized Systems.
+I am pursuing my PhD in Computer Science at the University of Notre Dame, Indiana, USA. I am a Graduate Research Assistant under <a href="https://sites.nd.edu/taeho-jung/">Prof. Taeho Jung</a>, Associate Professor at the same university. I received my Bachelor of Science in Computer Science and Engineering from the University of Dhaka in January 2020. My undergrad thesis topic was security and blockchain, supervised by <a href = "https://www.du.ac.bd/faculty/faculty_details/CSE/1777">Dr. Mosarrat Jahan</a> and <a href = "https://du.ac.bd/index.php/faculty/faculty_details/CSE/1765">Dr. Upama Kabir</a>. After completing my undergraduate, I worked as a Software Engineer for about 3.5 years at leading multi-national software companies in Dhaka, Bangladesh. Then I started my PhD here at Notre Dame...
 
-### About Me
-
-- **Research Areas:** My research interests lie in Security, Decentralized Systems, and Cryptography.
-- **Education:** I received my Bachelor of Science in Computer Science and Engineering from the University of Dhaka in January 2020.
-- **Professional Experience:** After graduation, I worked as a Software Engineer for about 3.5 years at leading multi-national software companies in Dhaka, Bangladesh.
-- **Undergraduate Research:** My undergrad thesis topic was security and blockchain, supervised by <a href = "https://www.du.ac.bd/faculty/faculty_details/CSE/1777">Dr. Mosarrat Jahan</a> and <a href = "https://du.ac.bd/index.php/faculty/faculty_details/CSE/1765">Dr. Upama Kabir</a>.
-
+**Current Research Areas:** Distributed Systems, Security, and Confidential Computing.
 ### Want to Talk?
 
 <a href="https://calendly.com/shossain-nd">Click here to schedule a meeting with me!</a> I'm open to discussing research, collaboration opportunities, or just chatting.
